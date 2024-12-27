@@ -53,7 +53,7 @@ A comprehensive command-line interface tool for managing Docker containers, imag
 
 1. Download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/username/docker-management-system/master/docker_automation.sh
+curl -O https://raw.githubusercontent.com/username/docker-automation-script/master/docker_automation.sh
 ```
 
 2. Make the script executable:
